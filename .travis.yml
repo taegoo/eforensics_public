@@ -12,7 +12,7 @@ before_install:
 
 branches:
   only:
-    - develop
+    - master
 
 sudo: true
 
